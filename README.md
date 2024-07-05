@@ -1,6 +1,5 @@
 # -Machine-Learning-Project-4
-# Fake News Prediction
-# Dataset Link: https://www.kaggle.com/c/fake-news/data?select=train.csv
+# Fake News Prediction - Dataset Link: https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 # Step 1: Importing Dependencies
 * import numpy for numpy arrays.
